@@ -9,4 +9,4 @@
  ##
 
  <img align="center"  height="120" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
- <img align="center" padding-left="5"  height="130" width="90" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+ <img align="center"  height="120" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
