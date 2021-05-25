@@ -8,4 +8,4 @@
 
  ##
 
- <img align="center"  height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
+ <img align="center"  height="120" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
