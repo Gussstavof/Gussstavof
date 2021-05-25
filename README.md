@@ -1,4 +1,4 @@
-## Olá, Eu sou o Gustavo Ferreira seja bem vindo!!
+## Olá, Eu sou o Gustavo Ferreira!!
 
  <div>
   <a href="https://github.com/Gussstavof">
