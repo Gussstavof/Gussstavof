@@ -7,13 +7,6 @@
 </div>
  
  ##
- 
-<div style="display: inline_block">
- <img align="center"  height="120" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
- <img align="center"  height="120" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-</div> 
-
- ##
   
  <div style="display: inline_block">
    <a href="https://www.linkedin.com/in/gustavo-ferreira-alves-32121315a/">
