@@ -1,8 +1,6 @@
 ## Olá, meu nome é Gustavo Ferreira, seja bem vindo ao meu portfólio!!
 
  <div>
-  <a href="https://github.com/Gussstavof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gussstavof&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gussstavof&layout=compact&langs_count=16&theme=gotham"/>
 </div>
  
